@@ -1,0 +1,19 @@
+body{
+	margin:0;
+	padding:0;
+}
+.container{
+    	width: 50%;
+    	margin: 0 auto;
+	border: 10px solid black;
+}
+.column{
+    	width: 90px;
+    	height: 60px;
+}
+.bg-black{
+	background:black;
+}
+.row{
+	display:flex;
+}
